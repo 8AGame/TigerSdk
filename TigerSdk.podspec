@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'TigerSdk'
-    s.version          = '1.0.0'
+    s.version          = '1.0.1'
     s.summary          = 'v '
 
     s.description      = <<-DESC
