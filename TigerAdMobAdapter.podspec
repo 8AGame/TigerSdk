@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'TigerAdMobAdapter'
-    s.version          = '1.0.0'
+    s.version          = '1.0.1'
     s.summary          = 'v '
 
     s.description      = <<-DESC
@@ -73,5 +73,5 @@ Pod::Spec.new do |s|
         'resolv',
         'xml2',
         'z']
-    # s.dependency 'Google-Mobile-Ads-SDK', '8.13.0'
+    s.dependency 'Google-Mobile-Ads-SDK', '8.13.0'
 end
