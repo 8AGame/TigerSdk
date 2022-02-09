@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'TigerSdk'
-    s.version          = '1.0.1'
+    s.version          = '1.0.2'
     s.summary          = 'v '
 
     s.description      = <<-DESC
@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
     s.ios.deployment_target = '10.0'
 
-    # s.source_files = [ "*.h" ]
+    s.source_files = [ "*.framework/Headers/*.h" ]
 
     s.public_header_files = [ "*.framework/Headers/*.h" ]
 
