@@ -1,0 +1,6 @@
+framework module OMAppLovinAdapter {
+  umbrella header "OMAppLovinAdapter.h"
+
+  export *
+  module * { export * }
+}
