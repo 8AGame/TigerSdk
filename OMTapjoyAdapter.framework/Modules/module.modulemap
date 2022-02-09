@@ -1,0 +1,6 @@
+framework module OMTapjoyAdapter {
+  umbrella header "OMTapjoyAdapter.h"
+
+  export *
+  module * { export * }
+}
