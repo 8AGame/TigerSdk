@@ -1,0 +1,6 @@
+framework module OMTencentAdAdapter {
+  umbrella header "OMTencentAdAdapter.h"
+
+  export *
+  module * { export * }
+}
