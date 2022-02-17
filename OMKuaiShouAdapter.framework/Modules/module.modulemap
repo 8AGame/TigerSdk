@@ -1,0 +1,6 @@
+framework module OMKuaiShouAdapter {
+  umbrella header "OMKuaiShouAdapter.h"
+
+  export *
+  module * { export * }
+}
